@@ -1,4 +1,5 @@
-<img align="left" alt="Flaks45's profile picture" src="https://github.com/Flaks45/Flaks45" width="100" height="100" />
+![Flaks45's profile picture](https://avatars.githubusercontent.com/Flaks45) <!-- Replace this with the correct URL of the profile picture -->
+
 # Hello! Flaks here
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&layout=compact&langs_count=100&hide=assembly)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&layout=compact&langs_count=100&hide=assembly)](https://github.com/Flaks45)
