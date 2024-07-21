@@ -1,8 +1,8 @@
 # Flaks45
-[![Discord Badge][DiscordBadge]]([Discord])
-[![YouTube Badge][YouTubeBadge]]([YouTube])
-[![X Badge][XBadge]]([X])
-[![Geometry Dash Badge][GeometryDashBadge]]([GeometryDash])
+[![Discord Badge][DiscordBadge]][Discord]
+[![YouTube Badge][YouTubeBadge]][YouTube]
+[![X Badge][XBadge]][X]
+[![Geometry Dash Badge][GeometryDashBadge]][GeometryDash]
 
 > Flaks45, 17 years old, Spain.
 
