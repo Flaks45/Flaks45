@@ -13,7 +13,7 @@
 - Geometrize to Logo app. [Repository here.][GeometrizeToLogo]
 - C# OOP lessons. [Repository here.][CSharpLessons]
 
-[GitHubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&layout=compact&langs_count=100&hide=assembly
+[GitHubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&langs_count=100&hide=assembly
 [DiscordBadge]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [Discord]: https://discord.com/users/626491450955399188
 [YouTubeBadge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
