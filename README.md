@@ -1,8 +1,8 @@
 # Flaks45
-[![Discord Badge][DiscordBadge]](Discord)
-[![YouTube Badge][YouTubeBadge]](YouTube)
-[![X Badge][XBadge]](X)
-[![Geometry Dash Badge][GeometryDashBadge]](GeometryDash)
+[![Discord Badge][DiscordBadge]]([Discord])
+[![YouTube Badge][YouTubeBadge]]([YouTube])
+[![X Badge][XBadge]]([X])
+[![Geometry Dash Badge][GeometryDashBadge]]([GeometryDash])
 
 > Flaks45, 17 years old, Spain.
 
@@ -10,7 +10,7 @@
 
 ## Things I have done:
 - Currently working on Geometry Dash Build Battles.
-- Geometrize to Logo app. [Repository here.](GeometrizeToLogo)
+- Geometrize to Logo app. [Repository here.][GeometrizeToLogo]
 
 [GitHubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&layout=compact&langs_count=100&hide=assembly
 [DiscordBadge]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
