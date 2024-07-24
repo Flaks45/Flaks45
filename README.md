@@ -11,7 +11,6 @@
 ## Things I have done:
 - Currently working on Geometry Dash Build Battles.
 - Geometrize to Logo app. [Repository here.][GeometrizeToLogo]
-- C# OOP lessons. [Repository here.][CSharpLessons]
 
 [GitHubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&langs_count=100&hide=assembly
 [DiscordBadge]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
