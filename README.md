@@ -10,6 +10,7 @@
 
 ## Things I have done:
 - Currently working on Geometry Dash Build Battles.
+- Helped with Geometry Dash Blocktober's 2024 bot coding.
 - Geometrize to Logo app. [Repository here.][GeometrizeToLogo]
 
 [GitHubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&langs_count=100&hide=assembly
