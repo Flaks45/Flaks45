@@ -4,7 +4,7 @@
 [![X Badge][XBadge]][X]
 [![Geometry Dash Badge][GeometryDashBadge]][GeometryDash]
 
-> Flaks45, 17 years old, Spain.
+> Flaks45, 17 years old (2007), Spain.
 
 ![Flaks45's GitHub Stats][GitHubStats]
 
@@ -12,6 +12,7 @@
 - Currently working on Geometry Dash Build Battles.
 - Helped with Geometry Dash Blocktober's 2024 bot coding.
 - Geometrize to Logo app. [Repository here.][GeometrizeToLogo]
+- Participated in HP CodeWars Barcelona 2023-2025 (#3 in 2025)
 
 [GitHubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&langs_count=100&hide=assembly
 [DiscordBadge]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
