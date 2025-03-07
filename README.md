@@ -9,10 +9,11 @@
 ![Flaks45's GitHub Stats][GitHubStats]
 
 ## Things I have done:
+- Participated in HP CodeWars Barcelona 2023-2025 (#3 in 2025)
+- Radiation simulator. [Repository here.][RadiationSimulator]
 - Currently working on Geometry Dash Build Battles.
 - Helped with Geometry Dash Blocktober's 2024 bot coding.
 - Geometrize to Logo app. [Repository here.][GeometrizeToLogo]
-- Participated in HP CodeWars Barcelona 2023-2025 (#3 in 2025)
 
 [GitHubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&langs_count=100&hide=assembly
 [DiscordBadge]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
@@ -25,3 +26,4 @@
 [GeometryDash]: https://gdbrowser.com/u/flaks45
 [GeometrizeToLogo]: https://github.com/Flaks45/Geometrize-to-logo
 [CSharpLessons]: https://github.com/Flaks45/C-Sharp-OOP-lessons/tree/main
+[RadiationSimulator]: http://github.com/Flaks45/radiation_simulator/
