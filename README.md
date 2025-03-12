@@ -4,7 +4,7 @@
 [![X Badge][XBadge]][X]
 [![Geometry Dash Badge][GeometryDashBadge]][GeometryDash]
 
-> Flaks45, 17 years old (2007), Spain.
+> Joan Andino (Flaks45), 17 years old (2007), Spain.
 
 ![Flaks45's GitHub Stats][GitHubStats]
 
