@@ -1,4 +1,5 @@
 # Flaks45
+[![Email Badge][EmailBadge]][Email]
 [![Discord Badge][DiscordBadge]][Discord]
 [![YouTube Badge][YouTubeBadge]][YouTube]
 [![X Badge][XBadge]][X]
@@ -18,6 +19,8 @@
 [GitHubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&langs_count=100&hide=assembly
 [DiscordBadge]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [Discord]: https://discord.com/users/626491450955399188
+[EmailBadge]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Email]: mailto:contactflaks@gmail.com
 [YouTubeBadge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 [YouTube]: https://www.youtube.com/@flaks8909
 [XBadge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
