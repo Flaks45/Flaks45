@@ -1,22 +1,40 @@
-# Flaks45
+# Joan Andino (Flaks45)
 [![Email Badge][EmailBadge]][Email]
 [![Discord Badge][DiscordBadge]][Discord]
 [![YouTube Badge][YouTubeBadge]][YouTube]
 [![X Badge][XBadge]][X]
 [![Geometry Dash Badge][GeometryDashBadge]][GeometryDash]
 
-> Joan Andino (Flaks45), 17 years old (2007), Spain.
+> 17 years old (2007), Barcelona, Spain.
 
-![Flaks45's GitHub Stats][GitHubStats]
-
-## Things I have done:
-- Participated in HP CodeWars Barcelona 2023-2025 (#3 in 2025)
+### Projects and Achievements:
+- Participated in HP CodeWars Barcelona 2023-2025 (#3 in 2025).
+- Chosen member of XIV Semana del Investigador [INVESTIGA I+D+i](https://www.programainvestiga.org/).
+- Participated in [FerMUN](https://fermun.org/en/) 2024 in Geneva, Switzerland.
+- Participated in [BIMUN](https://www.bimunbarcelona.com/) 2023-2025 in Barcelona, Spain.
+- Advanced (C1) [Cambridge English Exam](https://www.cambridgeenglish.org/exams-and-tests/advanced/).
 - Currently working on [Geometry Dash Build Battles][GeometryDashBuildBattles].
 - Helped with Geometry [Dash Blocktober][Blocktober]'s 2024 bot coding.
 - Geometrize to Logo app. [Repository here][GeometrizeToLogo].
 - Radiation simulator. [Repository here][RadiationSimulator].
 
-[GitHubStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Flaks45&langs_count=100&hide=assembly
+### Technologies and Tools:
+Languages: <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+
+Tools and libraries: <br>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Nextcord](https://img.shields.io/badge/Nextcord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### Languages I Speak:
+![English](https://img.shields.io/badge/English-005C84?style=for-the-badge&logo=emoji%2Bflag%2Bgb&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-EA3B2F?style=for-the-badge&logo=emoji%2Bflag%2Bes&logoColor=white)
+![Catalan](https://img.shields.io/badge/Catalan-FF9800?style=for-the-badge&logo=emoji%2Bflag%2Bcat&logoColor=white)
+
 [DiscordBadge]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [Discord]: https://discord.com/users/626491450955399188
 [EmailBadge]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
