@@ -8,7 +8,7 @@
 > 17 years old (2007), Barcelona, Spain.
 
 ### Achievements:
-- Participated in HP CodeWars Barcelona 2023-2025 (#3 in 2025).
+- Participated in [HP CodeWars Barcelona](https://codewarsbcn.hpcloud.hp.com/) 2023-2025 (#3 in 2025).
 - Chosen member of XIV Semana del Investigador [INVESTIGA I+D+i](https://www.programainvestiga.org/).
 - Participated in [FerMUN](https://fermun.org/en/) 2024 in Geneva, Switzerland.
 - Participated in [BIMUN](https://www.bimunbarcelona.com/) 2023-2025 in Barcelona, Spain.
