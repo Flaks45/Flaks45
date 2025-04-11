@@ -7,16 +7,19 @@
 
 > 17 years old (2007), Barcelona, Spain.
 
-### Projects and Achievements:
+### Achievements:
 - Participated in HP CodeWars Barcelona 2023-2025 (#3 in 2025).
 - Chosen member of XIV Semana del Investigador [INVESTIGA I+D+i](https://www.programainvestiga.org/).
 - Participated in [FerMUN](https://fermun.org/en/) 2024 in Geneva, Switzerland.
 - Participated in [BIMUN](https://www.bimunbarcelona.com/) 2023-2025 in Barcelona, Spain.
 - Advanced (C1) [Cambridge English Exam](https://www.cambridgeenglish.org/exams-and-tests/advanced/).
-- Currently working on [Geometry Dash Build Battles][GeometryDashBuildBattles].
+
+### Projects:
+- Worked on [Geometry Dash Build Battles][GeometryDashBuildBattles].
 - Helped with Geometry [Dash Blocktober][Blocktober]'s 2024 bot coding.
 - Geometrize to Logo app. [Repository here][GeometrizeToLogo].
 - Radiation simulator. [Repository here][RadiationSimulator].
+- Electric field simulator. [Repository here][ElectricField].
 
 ### Technologies and Tools:
 Languages: <br>
@@ -47,5 +50,6 @@ Tools and libraries: <br>
 [GeometryDash]: https://gdbrowser.com/u/flaks45
 [GeometrizeToLogo]: https://github.com/Flaks45/Geometrize-to-logo
 [RadiationSimulator]: http://github.com/Flaks45/radiation_simulator/
+[ElectricField]: https://github.com/Flaks45/Electric-field
 [GeometryDashBuildBattles]: https://gdbuildbattles.neocities.org/
 [Blocktober]: https://x.com/blocktobergd_
