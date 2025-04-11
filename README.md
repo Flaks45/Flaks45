@@ -3,7 +3,6 @@
 [![Discord Badge][DiscordBadge]][Discord]
 [![YouTube Badge][YouTubeBadge]][YouTube]
 [![X Badge][XBadge]][X]
-[![Geometry Dash Badge][GeometryDashBadge]][GeometryDash]
 
 > 17 years old (2007), Barcelona, Spain.
 
