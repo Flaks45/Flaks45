@@ -29,7 +29,6 @@ Languages: <br>
 Tools and libraries: <br>
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nextcord](https://img.shields.io/badge/Nextcord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### Languages I Speak:
