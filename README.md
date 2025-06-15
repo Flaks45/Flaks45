@@ -4,7 +4,7 @@
 [![YouTube Badge][YouTubeBadge]][YouTube]
 [![X Badge][XBadge]][X]
 
-> 17 years old (2007), Barcelona, Spain.
+> 18 years old (2007), Barcelona, Spain.
 
 ### Achievements:
 - Participated in [HP CodeWars Barcelona](https://codewarsbcn.hpcloud.hp.com/) 2023-2025 (#3 in 2025).
