@@ -14,6 +14,7 @@
 - Advanced (C1) [Cambridge English Exam](https://www.cambridgeenglish.org/exams-and-tests/advanced/).
 
 ### Projects:
+- [Flaks helper](https://github.com/Flaks45/FlaksHelper), a Celeste mod ([gamebanana page](https://gamebanana.com/mods/602478)).
 - Worked on [Geometry Dash Build Battles][GeometryDashBuildBattles].
 - Helped with Geometry [Dash Blocktober][Blocktober]'s 2024 bot coding.
 - Geometrize to Logo app. [Repository here][GeometrizeToLogo].
@@ -25,6 +26,8 @@ Languages: <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-66006c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
 Tools and libraries: <br>
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
