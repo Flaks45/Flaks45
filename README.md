@@ -1,12 +1,11 @@
 # Joan Andino (Flaks45)
 [![Email Badge][EmailBadge]][Email]
 [![Discord Badge][DiscordBadge]][Discord]
-[![YouTube Badge][YouTubeBadge]][YouTube]
-[![X Badge][XBadge]][X]
 
 > 18 years old (2007), Barcelona, Spain.
 
 ### Projects:
+- Translation Tool for Celeste mods. [Repository here][TranslateTool].
 - [Flaks helper](https://github.com/Flaks45/FlaksHelper), a Celeste mod ([gamebanana page](https://gamebanana.com/mods/602478)).
 - Worked on [Geometry Dash Build Battles][GeometryDashBuildBattles].
 - Helped with Geometry [Dash Blocktober][Blocktober]'s 2024 bot coding.
@@ -43,3 +42,4 @@ Languages: <br>
 [ElectricField]: https://github.com/Flaks45/Electric-field
 [GeometryDashBuildBattles]: https://gdbuildbattles.neocities.org/
 [Blocktober]: https://x.com/blocktobergd_
+[TranslateTool]: https://github.com/Flaks45/Celeste-Translation-Tool
