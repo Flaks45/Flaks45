@@ -2,7 +2,7 @@
 [![Email Badge][EmailBadge]][Email]
 [![Discord Badge][DiscordBadge]][Discord]
 
-> 18 years old (2007), Barcelona, Spain.
+> 19 years old (2007), Barcelona, Spain.
 
 ### Projects:
 - Helped with Geometry [Dash Blocktober][Blocktober]'s bot coding.
