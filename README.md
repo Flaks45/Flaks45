@@ -5,10 +5,10 @@
 > 18 years old (2007), Barcelona, Spain.
 
 ### Projects:
-- Translation Tool for Celeste mods. [Repository here][TranslateTool].
+- Helped with Geometry [Dash Blocktober][Blocktober]'s bot coding.
 - [Flaks helper](https://github.com/Flaks45/FlaksHelper), a Celeste mod ([gamebanana page](https://gamebanana.com/mods/602478)).
 - Worked on [Geometry Dash Build Battles][GeometryDashBuildBattles].
-- Helped with Geometry [Dash Blocktober][Blocktober]'s 2024 bot coding.
+- Translation Tool for Celeste mods. [Repository here][TranslateTool].
 - Geometrize to Logo app. [Repository here][GeometrizeToLogo].
 - Radiation simulator. [Repository here][RadiationSimulator].
 - Electric field simulator. [Repository here][ElectricField].
